@@ -1,2 +1,2 @@
 # Javascript
-abc
+This is Javascript examples for studying purpose
